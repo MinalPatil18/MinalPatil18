@@ -22,6 +22,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=MinalPatil18&label=PROFILE%20VIEWS&color=8E78AE&style=flat-square"/>
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MinalPatil18&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
+
 </div>
 
 <div align="center">
@@ -118,6 +122,8 @@ Tools
 </div>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8D78B5&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software+%E2%9C%A8;APIs+%7C+AI+%7C+Full-Stack+%7C+Automation" />
 
 04 · THINGS I'VE BUILT
 
@@ -226,43 +232,7 @@ I'm particularly interested in how retrieval + reasoning + generation can turn r
 
 <div align="center">
 
-06 · MY JOURNEY 💼
-
-</div>
-
-FEB 2026 ───────────────── APR 2026
-
-💼 AI Intern · The Business Legacy
-
-📍 Pune
-
-Worked with:
-
-Python · FastAPI · REST APIs · Groq API · RAG
-
-Also worked on:
-
-✦ Prompt Engineering
-
-✦ AI Response Evaluation
-
-✦ Testing & Validation
-
-✦ Debugging
-
-✦ API Development
-
-<br>
-
-<div align="center">
-
-Learn → Build → Debug → Test → Improve
-
-</div>
-
-<div align="center">
-
-07 · GITHUB IN NUMBERS 📊
+06 · GITHUB IN NUMBERS 📊
 
 <br>
 
@@ -274,11 +244,15 @@ Learn → Build → Debug → Test → Improve
 
 <img src="https://streak-stats.demolab.com?user=MinalPatil18&background=F9F6FC&border=E6DDF0&stroke=E6DDF0&ring=8D78B5&fire=A67CB9&currStreakLabel=70558F&sideLabels=70558F&currStreakNum=51436B&sideNums=51436B&dates=8D78B5"/>
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinalPatil18&bg_color=F9F6FC&color=70558F&line=8D78B5&point=A67CB9&area=true&hide_border=true" width="95%"/>
+
 </div>
 
 <div align="center">
 
-08 · DEVELOPMENT FOCUS 🌱
+07 · DEVELOPMENT FOCUS 🌱
 
 <br>
 
@@ -306,7 +280,7 @@ Learn → Build → Debug → Test → Improve
 
 <div align="center">
 
-09 · EDUCATION & CERTIFICATIONS 🎓
+08 · EDUCATION & CERTIFICATIONS 🎓
 
 <br>
 
@@ -340,7 +314,9 @@ Udemy · 2026
 
 <div align="center">
 
-10 · CURRENTLY EXPLORING 🌷
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&pause=1300&color=70558F&center=true&vCenter=true&width=620&lines=Always+learning+something+new+%F0%9F%8C%B1;Exploring+%7C+Building+%7C+Improving" />
+
+09 · CURRENTLY EXPLORING 🌷
 
 <br>
 
@@ -374,7 +350,7 @@ Production Engineering
 
 <div align="center">
 
-11 · A LITTLE MORE ABOUT ME
+10 · A LITTLE MORE ABOUT ME
 
 <br>
 
@@ -417,6 +393,10 @@ Curiosity ✦ Consistency ✦ Creativity ✦ Growth
 <br><br>
 
 🌙 Build · Learn · Improve · Repeat
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1100&color=8D78B5&center=true&vCenter=true&width=520&lines=Code+with+curiosity+%E2%9C%A8;Build+with+purpose+%F0%9F%8C%B7;Keep+growing+%F0%9F%8C%B1" />
 
 <br><br>
 
